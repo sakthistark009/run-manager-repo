@@ -4,8 +4,7 @@
         <classes>
             <class name='org.example.TestRunnerClass'>
                 <methods>
-                    <include name='TC7_Sample_Test_Case_7_skip'/>
-                    <include name='TC8_Sample_Test_Case_8_skip'/>
+                    <include name='TC5_Sample_Test_Case_5'/>
                     <include name='TC9_Sample_Test_Case_9_fail'/>
                 </methods>
             </class>
